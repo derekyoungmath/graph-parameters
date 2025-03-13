@@ -2,6 +2,6 @@
 A variety of parameters for graph families.
 
 - [Aztex Diamond](graphs/aztex-diamond.md)
-- [Extended](graphs/extended-cube.md)
+- [Extended Cube](graphs/extended-cube.md)
 - [Cycle](graphs/cycle.md)
 
