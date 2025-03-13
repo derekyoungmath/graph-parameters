@@ -12,7 +12,7 @@ A variety of parameters for graph families
 
 # Extended Cube
 
-<img src="./images/extended-cube.png" align="right" width="200" height="244" />
+<img src="./images/extended-cube.png" align="right" width="244" height="244" />
 
  - Definition:
  - Notation:
