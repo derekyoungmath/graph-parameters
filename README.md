@@ -1,19 +1,7 @@
 # graph-parameters
 A variety of parameters for graph families.
 
-- [Aztex Diamond](#aztex-diamond)
-- [Extended](#extended-cube)
+- [Aztex Diamond](graphs/aztex-diamond.md)
+- [Extended](graphs/extended-cube.md)
 - [Cycle](graphs/cycle.md)
 
-# Aztex Diamond
-
- - Definition:
- - Notation:
- - $Z(G)$: $r$
-
-# Extended Cube
-
-<img src="./images/extended-cube.png" align="right" width="344" height="244" />
-
- - Definition:
- - Notation:
