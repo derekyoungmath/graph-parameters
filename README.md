@@ -3,7 +3,7 @@ A variety of parameters for graph families.
 
 - [Aztex Diamond](#aztex-diamond)
 - [Extended](#extended-cube)
-- [Cycle](graphs/cycle)
+- [Cycle](graphs/cycle.md)
 
 # Aztex Diamond
 
