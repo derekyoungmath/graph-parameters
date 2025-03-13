@@ -1,8 +1,9 @@
 # graph-parameters
-A variety of parameters for graph families
+A variety of parameters for graph families.
 
 - [Aztex Diamond](#aztex-diamond)
 - [Extended](#extended-cube)
+- [Cycle](#graphs/cycle)
 
 # Aztex Diamond
 
